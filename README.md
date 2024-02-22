@@ -5,7 +5,6 @@
 
 <br/>
 
-Hi, My name is Rishab Pendalwar.
 
 As a junior majoring in Artificial Intelligence and Data Science, I have developed a strong foundation in software engineering, data analysis, statistics, and machine learning. I am proficient in various programming languages and tools, such as Python, C++, Java, SQL, Excel, and Tableau. I have a keen interest and expertise in artificial intelligence, especially in applying machine and deep learning techniques to solve real-world problems. I have demonstrated exceptional problem-solving abilities and teamwork skills in various projects. I am multilingual and eager to learn new technologies and methods. I am looking for opportunities to leverage my skills and knowledge in quantitative roles and contribute to innovation.
 
