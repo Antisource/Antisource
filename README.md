@@ -17,6 +17,7 @@ I'm a proficient in data analytics, data science and machine learning.
 <img height="50" src="https://github.com/konpa/devicon/blob/master/icons/googlecloud/googlecloud-original.svg">
 <img height="50" src="https://github.com/konpa/devicon/blob/master/icons/git/git-original.svg">
 <img height="50" src="https://github.com/konpa/devicon/blob/master/icons/linux/linux-original.svg">
+
 <img height="50" src="https://github.com/konpa/devicon/blob/master/icons/python/python-original.svg">
 <img height="50" src="https://github.com/konpa/devicon/blob/master/icons/nlp/nlp-original.svg">
 <img height="50" src="https://github.com/konpa/devicon/blob/master/icons/ai/ai-original.svg">
