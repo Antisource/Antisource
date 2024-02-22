@@ -1,6 +1,7 @@
 ## Hi there, I'm Rishab! 👋
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rishab-pendalwar)
+[![Hackerrank](https://www.hackerrank.com/profile/Antisource)
 
 <br/>
 
