@@ -1,4 +1,4 @@
-## Hi there, I'm [Rishab!] 👋
+## Hi there, I'm Rishab! 👋
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rishab-pendalwar)
 
@@ -25,4 +25,4 @@ I'm a proficient in data analytics, data science and machine learning.
 
 
 
-![Rishab's github stats](https://github-readme-stats.vercel.app/api?username=Antisource&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![Rishab's github stats](https://github-readme-stats.vercel.app/api?username=Antisource&theme=radical&show_icons=true&hide_border=true&count_private=false)
