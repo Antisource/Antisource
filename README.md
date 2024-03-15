@@ -25,4 +25,4 @@ As a junior majoring in Artificial Intelligence and Data Science, I have develop
 
 
 
-![Rishab's github stats](https://github-readme-stats.vercel.app/api?username=Antisource&theme=radical&show_icons=true&hide_border=true&count_private=false)
+![Rishab's github stats](https://github-readme-stats.vercel.app/api?username=Antisource&theme=radical&show_icons=true&hide_border=false&count_private=false)
