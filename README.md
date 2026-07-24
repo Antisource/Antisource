@@ -1,32 +1,48 @@
-## Hi there, I'm Rishab! 👋
+# 👋 Hi, I'm Rishab Pendalwar
 
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rishab-pendalwar)
+🚀 AI Researcher | Data Scientist | Aspiring AI Safety Fellow  
 
-[![HackerRank](https://img.shields.io/badge/-HackerRank-green?style=flat&logo=HackerRank&logoColor=black)](https://www.hackerrank.com/profile/Antisource)
+I’m passionate about **AI safety, alignment, and control**, with hands-on experience in **machine learning, NLP, and generative AI**. My journey spans research, industry internships, and building practical pipelines in Python and VS Code.
 
-<br/>
+---
 
+## 📌 About Me
+- 🎓 B.Tech in **Artificial Intelligence & Data Science** (Savitribai Phule Pune University, 2025)  
+- 📊 Former **AI & Data Science Intern at Calfus Inc** (Jul–Dec 2024)  
+- 💼 Externship at **HP Tech Ventures** in **Corporate Venture Capital & Business Analytics** (Apr–Jun 2024)  
+- 🌍 Based in **Pune, India**  
+- 🧠 Focused on **AI Safety research** — preparing for fellowships like **Heron, MATS, Astra, PRISM**  
 
-As a senior majoring in Artificial Intelligence and Data Science, I have developed a strong foundation in, machine learning, statistical techniques, software engineering, data science, and analysis. I am passionate about applying these skills in finance and quantitative analysis. I am proficient in various programming languages and tools, such as Python, R, C++, Java, SQL, Excel, and Tableau. I have a keen interest and expertise in artificial intelligence, especially in applying machine and deep learning techniques to solve real-world problems. I have demonstrated exceptional problem-solving abilities and teamwork skills in various projects. I am multilingual and eager to learn new technologies and methods. I am looking for opportunities to leverage my skills and knowledge in quantitative roles and contribute to innovation.
+---
 
-  
-**Language and Tools:** 
+## 🛠️ Skills
+- **Programming:** Python (Advanced), Java, SQL  
+- **AI/ML:** Machine Learning, Deep Learning, NLP, Generative AI, Prompt Engineering  
+- **Frameworks & Tools:** FastAPI, LangChain, Milvus, VS Code, Dependency Management  
+- **Cloud:** Google Cloud, AWS  
+- **Special Interests:** AI control, scheming detection, embodied AI trust calibration  
 
-<code><img height="50" src="https://github.com/konpa/devicon/blob/master/icons/python/python-original.svg"></code>
-<code><img height="50" src="https://github.com/konpa/devicon/blob/master/icons/java/java-original.svg"></code>
-<code><img height="50" src="https://github.com/konpa/devicon/blob/master/icons/cplusplus/cplusplus-original.svg"></code>
-<code><img height="50" src="https://github.com/konpa/devicon/blob/master/icons/googlecloud/googlecloud-original.svg"></code>
-<code><img height="50" src="https://github.com/konpa/devicon/blob/master/icons/git/git-original.svg"></code>
-<code><img height="50" src="https://github.com/konpa/devicon/blob/master/icons/linux/linux-original.svg"></code>
-<code><img height="50" src="https://github.com/konpa/devicon/blob/master/icons/html5/html5-original.svg"></code>
-<code><img height="50" src="https://github.com/konpa/devicon/blob/master/icons/css3/css3-original.svg"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+---
 
+## 📂 Current Projects
+- 🔬 Research statements & project fit ranking for **AI Safety fellowships**  
+- ⚙️ Building **YAML config loaders** and **fine‑tuning pipelines** with tokenizer threading  
+- 🌱 Exploring **climate tech applications of AI**  
+- 📈 Geopolitical forecasting & long‑term scenario analysis  
 
+---
 
+## 🌟 Highlights
+- 🏆 CGPA: **9.17/10**  
+- 📚 ISC Class 12: **96.75%** | ICSE Class 10: **95.8%**  
+- 🌐 Languages: English, Hindi, Marathi, Telugu (native proficiency)  
 
+---
 
-![Rishab's github stats](https://github-readme-stats.vercel.app/api?username=Antisource&theme=radical&show_icons=true&hide_border=false&count_private=false)
+## 📫 Connect with Me
+- 💼 [LinkedIn](https://www.linkedin.com/in/rishabpendalwar)  
+- 📧 Email: rishabsdp17@gmail.com  
 
-![Rishab's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Antisource&theme=radical&show_icons=true&hide_border=false&layout=compact)
+---
 
+⭐️ If you share interests in **AI safety, alignment, or climate tech**, let’s collaborate!
