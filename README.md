@@ -25,9 +25,5 @@ br>Research interests: Artificial Intelligence, Machine Learning, AI Safety and 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
----
-[![](https://komarev.com/ghpvc/?username=Antisource&icon=0&color=0)](https://visitcount.itsvg.in)
-
-
 
 
