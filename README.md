@@ -3,8 +3,8 @@
 🚀 AI Researcher | Data Scientist 
 
 # 💫 About Me:
-I’m passionate about **AI safety, alignment, and control**, with hands-on experience in **machine learning, NLP, and generative AI**. My journey spans research and industry internships.
-I am an Independent researcher.<br>Research interests: Artificial Intelligence, Machine Learning, AI Safety and Governance, <br>Natural Language Processing,  Deep Learning.<br>
+I am an Independent researcher.< I am passionate about **AI safety, alignment, and control**, with hands-on experience in **machine learning, NLP, and generative AI**. My journey spans research and industry internships.
+br>Research interests: Artificial Intelligence, Machine Learning, AI Safety and Governance, Natural Language Processing, Deep Learning.
 
 
 ## 🌐 Socials:
